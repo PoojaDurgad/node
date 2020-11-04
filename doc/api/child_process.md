@@ -1630,6 +1630,7 @@ or [`child_process.fork()`][].
 [`ChildProcess`]: #child_process_child_process
 [`Error`]: errors.md#errors_class_error
 [`EventEmitter`]: events.md#events_class_eventemitter
+[`child_process.escapeArgument()`]: #child_process_child_process_escapeargument_args_options
 [`child_process.exec()`]: #child_process_child_process_exec_command_options_callback
 [`child_process.execFile()`]: #child_process_child_process_execfile_file_args_options_callback
 [`child_process.execFileSync()`]: #child_process_child_process_execfilesync_file_args_options
