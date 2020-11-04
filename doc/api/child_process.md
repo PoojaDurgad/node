@@ -711,7 +711,7 @@ See also: [`child_process.exec()`][] and [`child_process.fork()`][].
 * `args` {string[]} list of string arguments.
 * Returns: {ChildProcess}
 
-The `childprocess.escapeArgument()` accept the user input and safely
+The `child_process.escapeArgument()` accept the user input and safely
 pass it to another command. It is about providing a way to escape a
 string for shell usage.
 
